@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "Product 1",
+      "price": "22342",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 3123
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 54543
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 4546
+    },
+    {
+      "id": "2fb52ee3-58b6-4486-bcb9-95ba7e136f70",
+      "title": "Product 5",
+      "price": 12345
+    },
+    {
+      "id": "13486497-5772-4887-809f-c4e079e7487a",
+      "title": "Product 6",
+      "price": "8097"
+    },
+    {
+      "id": "7ee79c30-9fe8-4e3f-8c38-fcd3802afa90",
+      "title": "Product 7",
+      "price": "564654"
+    }
+  ]
+}
